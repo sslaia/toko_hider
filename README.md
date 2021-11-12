@@ -14,6 +14,8 @@ Ada menu pilihan:
 7. Membuat backup data 
 8. Keluar
 
+![Toko Hider](./toko_hider.png)
+
 
 ## Bagaimana mulai
 
