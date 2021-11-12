@@ -45,7 +45,7 @@ def menayangkan_menu():
             for i in json_data["menu"]:
                 nama = i["nama"]
                 harga = i["harga"]
-                print(f"{nama}                      : Rp {harga}")
+                print(f"{nama} : Rp {harga}")
     
     print()
     # bagian berikut hanya untuk menunggu
